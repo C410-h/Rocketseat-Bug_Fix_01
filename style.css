@@ -6,9 +6,12 @@ body {
 
 #hero {
     width: 592px;
-    margin: 72px;
+    margin: 0 auto 72px;
 }
 
+#hero img{
+  margin-bottom: 72px;
+}
 img {
     margin: 100px;
 }
